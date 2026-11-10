@@ -225,4 +225,11 @@ Every interaction provides clear sensory feedback:
 - **Recording:** Real-time animated waveform and elapsed time counter.
 - **Processing:** Visual thinking indicator informing the user of AI reasoning.
 - **Speaking:** Active audio playback with waveform and instant stop control.
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9579a409-0cae-4ef6-b7ab-66f4f09024f0" />
+  <img width="1920" height="1080" alt="Screenshot (610)" src="https://github.com/user-attachments/assets/73a5c8ad-c9d8-47fe-91e5-4eddb9670e3c" />
+  <img width="1920" height="1080" alt="Screenshot (612)" src="https://github.com/user-attachments/assets/eba8ef69-7766-4736-81b5-e4547382eb29" />
+
+
+
+
 
